@@ -12,3 +12,4 @@ scipy==1.11.3
 six==1.16.0
 textblob==0.17.1
 Werkzeug==2.3.7
+waitress=3.0.2
